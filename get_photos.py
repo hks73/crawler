@@ -12,10 +12,10 @@ def get_photos(search_terms):
 
 		# it's about time to create a TwitterSearch object with our secret tokens
 		ts = TwitterSearch(
-			consumer_key = 'b3RrA25ftevuRjUAtsiOv1ZKG',
-			consumer_secret = '80rD93QtkiQphVR6ueJ3PPtaieoixOTb0EJWQ6YQh9eDMCVx9z',
-			access_token = '16329367-vBuNh4kcRk1ID6S3sANokf0HDYRoAzBu9mVdVA5CU',
-			access_token_secret = '9wlkuq4YeCS8QP61huKIG7fy10Gi6SrKe6OhkBm9R9hpX'
+			consumer_key = 'CONSUMER_KEY',
+			consumer_secret = 'CONSUME_SECRET',
+			access_token = 'ACCESS_TOKEN',
+			access_token_secret = 'ACCESS_TOKEN_SECRET'
 		 )
 
 		total = 0
